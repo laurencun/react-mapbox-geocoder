@@ -6,9 +6,13 @@
     "@testing-library/jest-dom": "^5.11.4",
     "@testing-library/react": "^11.1.0",
     "@testing-library/user-event": "^12.1.10",
-    "react": "^17.0.2",
-    "react-dom": "^17.0.2",
+    "mapbox-gl": "^2.2.0",
+    "react": "^16.0.0",
+    "react-dom": "^16.0.0",
+    "react-map-gl": "^6.1.13",
+    "react-mapbox-gl-geocoder": "^1.1.0",
     "react-scripts": "4.0.3",
+    "reactstrap": "^8.9.0",
     "web-vitals": "^1.0.1"
   },
   "scripts": {
