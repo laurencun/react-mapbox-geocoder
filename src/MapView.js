@@ -130,7 +130,6 @@ class MapView extends PureComponent {
   };
 
   openPopup = (index) => {
-    console.log(index)
       this.setSelectedMarker(index)
   }
 
